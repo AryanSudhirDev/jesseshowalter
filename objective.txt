@@ -1,0 +1,3 @@
+So this is going to be a practice project to refresh my html skills.
+
+I will be making a page about Jesse Showalter who is an awesome full stack developer who is also awesome at design.
